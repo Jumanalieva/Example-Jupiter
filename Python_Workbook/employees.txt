@@ -1,0 +1,9 @@
+
+employees = [
+    'John Doe - Software Engineer', 
+    'Jane Smith - Project Manager', 
+    'Emily Jones - Data Analyst', 
+    'Michael Brown - UX Designer', 
+    'Sarah Wilson - DevOps Engineer', 
+    'Alex Johnson - QA Engineer'
+]
